@@ -13,3 +13,7 @@
 ## WiFi communication:
 
 - [Ip discovery](https://github.com/Robert-Sereda-pcn/M5_Stack_WiFi_Sender)
+
+## UnitV2 AI camera:
+
+- [Receive Uart data](https://github.com/Robert-Sereda-pcn/M5_Stack_Atom_receive_AiCameraData)
