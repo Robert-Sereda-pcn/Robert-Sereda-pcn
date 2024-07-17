@@ -12,4 +12,4 @@
 
 ## WiFi communication:
 
--[Ip discovery](https://github.com/Robert-Sereda-pcn/M5_Stack_WiFi_Sender)
+- [Ip discovery](https://github.com/Robert-Sereda-pcn/M5_Stack_WiFi_Sender)
